@@ -1,0 +1,8 @@
+﻿  MLHW.cpp
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(30,10): error C2065:  'm1': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(30,14): error C2065:  'n2': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(31,18): error C2065:  'm1': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(33,19): error C2065:  'n2': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(36,20): error C2065:  'm2': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(43,18): error C2065:  'm1': undeclared identifier
+C:\Users\Ali\source\MLHW\MLHW\MLHW.cpp(45,19): error C2065:  'n2': undeclared identifier
